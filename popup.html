@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="js/jquery-1.9.1.min.js"></script>
+    <script src="js/popup.js"></script>
+    <style>
+        body {
+            font-family: "微软雅黑";
+        }
+        .btn {
+            margin: 20px;
+            width: 200px;
+            line-height: 35px;
+            background: #3AB2FF;
+            color: #fff;
+            font-size: 18px;
+            border: none;
+            border-radius: 5px;
+            outline: none;
+        }
+        .btn:active {
+            background: #3AB2aa;
+        }
+    </style>
+</head>
+<body>
+    <input type="text" id="userName"/>
+    <span id="userName_v" style="display: none;"></span>
+    <button class="btn" id="enterName" onclick="enterName()">确认</button>
+</body>
+</html>

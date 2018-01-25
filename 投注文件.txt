@@ -1,0 +1,282 @@
+<div class="split_panel">
+<table>
+<tbody><tr class="head"><th colspan="3">冠军</th></tr>
+<tr><th class="GDX1_D name" id="t_DX1_D" title="冠军 大"><input type="hidden" id="k_DX1_D" value="DX">大</th>
+
+<td class="GDX1_D odds" id="o_DX1_D">--</td>
+<td class="GDX1_D amount ha"><input name="DX1_D" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDX1_X name" id="t_DX1_X" title="冠军 小"><input type="hidden" id="k_DX1_X" value="DX">小</th>
+
+<td class="GDX1_X odds" id="o_DX1_X">--</td>
+<td class="GDX1_X amount ha"><input name="DX1_X" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDS1_D name" id="t_DS1_D" title="冠军 单"><input type="hidden" id="k_DS1_D" value="DS">单</th>
+
+<td class="GDS1_D odds" id="o_DS1_D">--</td>
+<td class="GDS1_D amount ha"><input name="DS1_D" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDS1_S name" id="t_DS1_S" title="冠军 双"><input type="hidden" id="k_DS1_S" value="DS">双</th>
+
+<td class="GDS1_S odds" id="o_DS1_S">--</td>
+<td class="GDS1_S amount ha"><input name="DS1_S" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GLH1_L name" id="t_LH1_L" title="冠军 龙"><input type="hidden" id="k_LH1_L" value="LH">龙</th>
+
+<td class="GLH1_L odds" id="o_LH1_L">--</td>
+<td class="GLH1_L amount ha"><input name="LH1_L" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GLH1_H name" id="t_LH1_H" title="冠军 虎"><input type="hidden" id="k_LH1_H" value="LH">虎</th>
+
+<td class="GLH1_H odds" id="o_LH1_H">--</td>
+<td class="GLH1_H amount ha"><input name="LH1_H" class="ba" disabled=""></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr class="head"><th colspan="3">亚军</th></tr>
+<tr><th class="GDX2_D name" id="t_DX2_D" title="亚军 大"><input type="hidden" id="k_DX2_D" value="DX">大</th>
+
+<td class="GDX2_D odds" id="o_DX2_D">--</td>
+<td class="GDX2_D amount ha"><input name="DX2_D" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDX2_X name" id="t_DX2_X" title="亚军 小"><input type="hidden" id="k_DX2_X" value="DX">小</th>
+
+<td class="GDX2_X odds" id="o_DX2_X">--</td>
+<td class="GDX2_X amount ha"><input name="DX2_X" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDS2_D name" id="t_DS2_D" title="亚军 单"><input type="hidden" id="k_DS2_D" value="DS">单</th>
+
+<td class="GDS2_D odds" id="o_DS2_D">--</td>
+<td class="GDS2_D amount ha"><input name="DS2_D" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDS2_S name" id="t_DS2_S" title="亚军 双"><input type="hidden" id="k_DS2_S" value="DS">双</th>
+
+<td class="GDS2_S odds" id="o_DS2_S">--</td>
+<td class="GDS2_S amount ha"><input name="DS2_S" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GLH2_L name" id="t_LH2_L" title="亚军 龙"><input type="hidden" id="k_LH2_L" value="LH">龙</th>
+
+<td class="GLH2_L odds" id="o_LH2_L">--</td>
+<td class="GLH2_L amount ha"><input name="LH2_L" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GLH2_H name" id="t_LH2_H" title="亚军 虎"><input type="hidden" id="k_LH2_H" value="LH">虎</th>
+
+<td class="GLH2_H odds" id="o_LH2_H">--</td>
+<td class="GLH2_H amount ha"><input name="LH2_H" class="ba" disabled=""></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr class="head"><th colspan="3">第三名</th></tr>
+<tr><th class="GDX3_D name" id="t_DX3_D" title="第三名 大"><input type="hidden" id="k_DX3_D" value="DX">大</th>
+
+<td class="GDX3_D odds" id="o_DX3_D">--</td>
+<td class="GDX3_D amount ha"><input name="DX3_D" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDX3_X name" id="t_DX3_X" title="第三名 小"><input type="hidden" id="k_DX3_X" value="DX">小</th>
+
+<td class="GDX3_X odds" id="o_DX3_X">--</td>
+<td class="GDX3_X amount ha"><input name="DX3_X" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDS3_D name" id="t_DS3_D" title="第三名 单"><input type="hidden" id="k_DS3_D" value="DS">单</th>
+
+<td class="GDS3_D odds" id="o_DS3_D">--</td>
+<td class="GDS3_D amount ha"><input name="DS3_D" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDS3_S name" id="t_DS3_S" title="第三名 双"><input type="hidden" id="k_DS3_S" value="DS">双</th>
+
+<td class="GDS3_S odds" id="o_DS3_S">--</td>
+<td class="GDS3_S amount ha"><input name="DS3_S" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GLH3_L name" id="t_LH3_L" title="第三名 龙"><input type="hidden" id="k_LH3_L" value="LH">龙</th>
+
+<td class="GLH3_L odds" id="o_LH3_L">--</td>
+<td class="GLH3_L amount ha"><input name="LH3_L" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GLH3_H name" id="t_LH3_H" title="第三名 虎"><input type="hidden" id="k_LH3_H" value="LH">虎</th>
+
+<td class="GLH3_H odds" id="o_LH3_H">--</td>
+<td class="GLH3_H amount ha"><input name="LH3_H" class="ba" disabled=""></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr class="head"><th colspan="3">第四名</th></tr>
+<tr><th class="GDX4_D name" id="t_DX4_D" title="第四名 大"><input type="hidden" id="k_DX4_D" value="DX">大</th>
+
+<td class="GDX4_D odds" id="o_DX4_D">--</td>
+<td class="GDX4_D amount ha"><input name="DX4_D" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDX4_X name" id="t_DX4_X" title="第四名 小"><input type="hidden" id="k_DX4_X" value="DX">小</th>
+
+<td class="GDX4_X odds" id="o_DX4_X">--</td>
+<td class="GDX4_X amount ha"><input name="DX4_X" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDS4_D name" id="t_DS4_D" title="第四名 单"><input type="hidden" id="k_DS4_D" value="DS">单</th>
+
+<td class="GDS4_D odds" id="o_DS4_D">--</td>
+<td class="GDS4_D amount ha"><input name="DS4_D" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDS4_S name" id="t_DS4_S" title="第四名 双"><input type="hidden" id="k_DS4_S" value="DS">双</th>
+
+<td class="GDS4_S odds" id="o_DS4_S">--</td>
+<td class="GDS4_S amount ha"><input name="DS4_S" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GLH4_L name" id="t_LH4_L" title="第四名 龙"><input type="hidden" id="k_LH4_L" value="LH">龙</th>
+
+<td class="GLH4_L odds" id="o_LH4_L">--</td>
+<td class="GLH4_L amount ha"><input name="LH4_L" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GLH4_H name" id="t_LH4_H" title="第四名 虎"><input type="hidden" id="k_LH4_H" value="LH">虎</th>
+
+<td class="GLH4_H odds" id="o_LH4_H">--</td>
+<td class="GLH4_H amount ha"><input name="LH4_H" class="ba" disabled=""></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr class="head"><th colspan="3">第五名</th></tr>
+<tr><th class="GDX5_D name" id="t_DX5_D" title="第五名 大"><input type="hidden" id="k_DX5_D" value="DX">大</th>
+
+<td class="GDX5_D odds" id="o_DX5_D">--</td>
+<td class="GDX5_D amount ha"><input name="DX5_D" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDX5_X name" id="t_DX5_X" title="第五名 小"><input type="hidden" id="k_DX5_X" value="DX">小</th>
+
+<td class="GDX5_X odds" id="o_DX5_X">--</td>
+<td class="GDX5_X amount ha"><input name="DX5_X" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDS5_D name" id="t_DS5_D" title="第五名 单"><input type="hidden" id="k_DS5_D" value="DS">单</th>
+
+<td class="GDS5_D odds" id="o_DS5_D">--</td>
+<td class="GDS5_D amount ha"><input name="DS5_D" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDS5_S name" id="t_DS5_S" title="第五名 双"><input type="hidden" id="k_DS5_S" value="DS">双</th>
+
+<td class="GDS5_S odds" id="o_DS5_S">--</td>
+<td class="GDS5_S amount ha"><input name="DS5_S" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GLH5_L name" id="t_LH5_L" title="第五名 龙"><input type="hidden" id="k_LH5_L" value="LH">龙</th>
+
+<td class="GLH5_L odds" id="o_LH5_L">--</td>
+<td class="GLH5_L amount ha"><input name="LH5_L" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GLH5_H name" id="t_LH5_H" title="第五名 虎"><input type="hidden" id="k_LH5_H" value="LH">虎</th>
+
+<td class="GLH5_H odds" id="o_LH5_H">--</td>
+<td class="GLH5_H amount ha"><input name="LH5_H" class="ba" disabled=""></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr class="head"><th colspan="3">第六名</th></tr>
+<tr><th class="GDX6_D name" id="t_DX6_D" title="第六名 大"><input type="hidden" id="k_DX6_D" value="DX">大</th>
+
+<td class="GDX6_D odds" id="o_DX6_D">--</td>
+<td class="GDX6_D amount ha"><input name="DX6_D" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDX6_X name" id="t_DX6_X" title="第六名 小"><input type="hidden" id="k_DX6_X" value="DX">小</th>
+
+<td class="GDX6_X odds" id="o_DX6_X">--</td>
+<td class="GDX6_X amount ha"><input name="DX6_X" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDS6_D name" id="t_DS6_D" title="第六名 单"><input type="hidden" id="k_DS6_D" value="DS">单</th>
+
+<td class="GDS6_D odds" id="o_DS6_D">--</td>
+<td class="GDS6_D amount ha"><input name="DS6_D" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDS6_S name" id="t_DS6_S" title="第六名 双"><input type="hidden" id="k_DS6_S" value="DS">双</th>
+
+<td class="GDS6_S odds" id="o_DS6_S">--</td>
+<td class="GDS6_S amount ha"><input name="DS6_S" class="ba" disabled=""></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr class="head"><th colspan="3">第七名</th></tr>
+<tr><th class="GDX7_D name" id="t_DX7_D" title="第七名 大"><input type="hidden" id="k_DX7_D" value="DX">大</th>
+
+<td class="GDX7_D odds" id="o_DX7_D">--</td>
+<td class="GDX7_D amount ha"><input name="DX7_D" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDX7_X name" id="t_DX7_X" title="第七名 小"><input type="hidden" id="k_DX7_X" value="DX">小</th>
+
+<td class="GDX7_X odds" id="o_DX7_X">--</td>
+<td class="GDX7_X amount ha"><input name="DX7_X" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDS7_D name" id="t_DS7_D" title="第七名 单"><input type="hidden" id="k_DS7_D" value="DS">单</th>
+
+<td class="GDS7_D odds" id="o_DS7_D">--</td>
+<td class="GDS7_D amount ha"><input name="DS7_D" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDS7_S name" id="t_DS7_S" title="第七名 双"><input type="hidden" id="k_DS7_S" value="DS">双</th>
+
+<td class="GDS7_S odds" id="o_DS7_S">--</td>
+<td class="GDS7_S amount ha"><input name="DS7_S" class="ba" disabled=""></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr class="head"><th colspan="3">第八名</th></tr>
+<tr><th class="GDX8_D name" id="t_DX8_D" title="第八名 大"><input type="hidden" id="k_DX8_D" value="DX">大</th>
+
+<td class="GDX8_D odds" id="o_DX8_D">--</td>
+<td class="GDX8_D amount ha"><input name="DX8_D" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDX8_X name" id="t_DX8_X" title="第八名 小"><input type="hidden" id="k_DX8_X" value="DX">小</th>
+
+<td class="GDX8_X odds" id="o_DX8_X">--</td>
+<td class="GDX8_X amount ha"><input name="DX8_X" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDS8_D name" id="t_DS8_D" title="第八名 单"><input type="hidden" id="k_DS8_D" value="DS">单</th>
+
+<td class="GDS8_D odds" id="o_DS8_D">--</td>
+<td class="GDS8_D amount ha"><input name="DS8_D" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDS8_S name" id="t_DS8_S" title="第八名 双"><input type="hidden" id="k_DS8_S" value="DS">双</th>
+
+<td class="GDS8_S odds" id="o_DS8_S">--</td>
+<td class="GDS8_S amount ha"><input name="DS8_S" class="ba" disabled=""></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr class="head"><th colspan="3">第九名</th></tr>
+<tr><th class="GDX9_D name" id="t_DX9_D" title="第九名 大"><input type="hidden" id="k_DX9_D" value="DX">大</th>
+
+<td class="GDX9_D odds" id="o_DX9_D">--</td>
+<td class="GDX9_D amount ha"><input name="DX9_D" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDX9_X name" id="t_DX9_X" title="第九名 小"><input type="hidden" id="k_DX9_X" value="DX">小</th>
+
+<td class="GDX9_X odds" id="o_DX9_X">--</td>
+<td class="GDX9_X amount ha"><input name="DX9_X" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDS9_D name" id="t_DS9_D" title="第九名 单"><input type="hidden" id="k_DS9_D" value="DS">单</th>
+
+<td class="GDS9_D odds" id="o_DS9_D">--</td>
+<td class="GDS9_D amount ha"><input name="DS9_D" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDS9_S name" id="t_DS9_S" title="第九名 双"><input type="hidden" id="k_DS9_S" value="DS">双</th>
+
+<td class="GDS9_S odds" id="o_DS9_S">--</td>
+<td class="GDS9_S amount ha"><input name="DS9_S" class="ba" disabled=""></td>
+</tr>
+</tbody></table>
+<table>
+<tbody><tr class="head"><th colspan="3">第十名</th></tr>
+<tr><th class="GDX10_D name" id="t_DX10_D" title="第十名 大"><input type="hidden" id="k_DX10_D" value="DX">大</th>
+
+<td class="GDX10_D odds" id="o_DX10_D">--</td>
+<td class="GDX10_D amount ha"><input name="DX10_D" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDX10_X name" id="t_DX10_X" title="第十名 小"><input type="hidden" id="k_DX10_X" value="DX">小</th>
+
+<td class="GDX10_X odds" id="o_DX10_X">--</td>
+<td class="GDX10_X amount ha"><input name="DX10_X" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDS10_D name" id="t_DS10_D" title="第十名 单"><input type="hidden" id="k_DS10_D" value="DS">单</th>
+
+<td class="GDS10_D odds" id="o_DS10_D">--</td>
+<td class="GDS10_D amount ha"><input name="DS10_D" class="ba" disabled=""></td>
+</tr>
+<tr><th class="GDS10_S name" id="t_DS10_S" title="第十名 双"><input type="hidden" id="k_DS10_S" value="DS">双</th>
+
+<td class="GDS10_S odds" id="o_DS10_S">--</td>
+<td class="GDS10_S amount ha"><input name="DS10_S" class="ba" disabled=""></td>
+</tr>
+</tbody></table>
+</div>

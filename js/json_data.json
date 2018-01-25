@@ -1,0 +1,38 @@
+{
+  "daxiao": [
+    {"type": "大","money": 10},
+    {"type": "大","money": 10},
+    {"type": "小","money": 10},
+    {"type": "大","money": 10},
+    {"type": "小","money": 10},
+    {"type": "大","money": 10},
+    {"type": "大","money": 10},
+    {"type": "大","money": 10},
+    {"type": "大","money": 10},
+    {"type": "小","money": 10}
+  ],
+  "danshuang": [
+    {"type": "单","money": 10},
+    {"type": "双","money": 10},
+    {"type": "双","money": 10},
+    {"type": "单","money": 10},
+    {"type": "单","money": 10},
+    {"type": "双","money": 10},
+    {"type": "单","money": 10},
+    {"type": "双","money": 10},
+    {"type": "单","money": 10},
+    {"type": "单","money": 10}
+  ],
+  "longhu": [
+    {"type": "龙","money": 10},
+    {"type": "龙","money": 10},
+    {"type": "虎","money": 10},
+    {"type": "虎","money": 10},
+    {"type": "龙","money": 10},
+    {"type": "虎","money": 10},
+    {"type": "龙","money": 10},
+    {"type": "虎","money": 10},
+    {"type": "虎","money": 10},
+    {"type": "龙","money": 10}
+  ]
+}
