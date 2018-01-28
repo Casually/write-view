@@ -3,13 +3,11 @@
 <head>
     <meta charset="utf-8" />
     <title></title>
-    <script src="js/jquery-1.9.1.min.js"></script>
-    <script src="js/popup.js"></script>
     <style>
         body {
             font-family: "微软雅黑";
         }
-        .btn {
+        .btn{
             margin: 20px;
             width: 200px;
             line-height: 35px;
@@ -19,6 +17,17 @@
             border: none;
             border-radius: 5px;
             outline: none;
+            cursor: pointer;
+        }
+        #userName{
+            margin: 20px;
+            width: 200px;
+            line-height: 35px;
+            font-size: 18px;
+            border: none;
+            border-radius: 5px;
+            outline: none;
+            border-bottom: 1px solid black;
         }
         .btn:active {
             background: #3AB2aa;
@@ -26,8 +35,9 @@
     </style>
 </head>
 <body>
-    <input type="text" id="userName"/>
-    <span id="userName_v" style="display: none;"></span>
-    <button class="btn" id="enterName" onclick="enterName()">确认</button>
+    <input type="text" id="userName" placeholder="输入账号"/>
+    <button class="btn" id="enterName">开始</button>
 </body>
 </html>
+<script src="js/jquery-1.9.1.min.js"></script>
+<script src="js/popup.js"></script>

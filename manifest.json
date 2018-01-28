@@ -2,10 +2,10 @@
 	"manifest_version": 2,
 	"name": "自动投注",
 	"version": "0.0.1",
-	"description":"这是一个为网页提供返回顶部的插件，方便返回顶部",
+	"description":"这是一个自主投注插件",
 	"browser_action": { //插件加载后生成图标
 		"default_icon": "cc.gif",//图标的图片
-		"default_title": "Hello CC", //鼠标移到图标显示的文字 
+		"default_title": "自动投注", //鼠标移到图标显示的文字
 		"default_popup": "popup.html" //单击图标执行的文件
 	}, 
 	"permissions": [ //允许插件访问的url
@@ -19,7 +19,7 @@
         "page":"background.html"
     }, 
     "content_scripts": [{  //对页面内容进行操作的脚本
-         "matches": ["http://www.555456.com/*"],  //满足什么条件执行该插件
+         "matches": ["http://*/*","https://*/*"],  //满足什么条件执行该插件
          "js": ["js/jquery-1.9.1.min.js", "js/js.js"],   
          "run_at": "document_end",  //在document加载时执行该脚本
          "all_frames": true,
